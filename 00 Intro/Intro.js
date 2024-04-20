@@ -12,7 +12,7 @@
 // but can't be executed js code out the browser
 
 // then in 2009 a programmer Ryan Dahl 🤔thought why can't we use js outside the browser.
-// then he took V8 Google's engine which is fastest engine and combine it with c language
+// then he took V8 Google's engine which is fastest engine and combine it with c++ language
 // and call it as NODEJS 😃
 
 // And Now finally Javascript can be use in server-side language
